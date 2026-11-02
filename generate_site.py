@@ -254,6 +254,7 @@ def render_html_page(page_data, is_home=False):
     <meta name="description" content="{description}">
     <link rel="canonical" href="{canonical_url}">
     <meta name="robots" content="index, follow">
+    <meta name="google-site-verification" content="pgvlG0f03ZrRZzbgDSXRhr6tsSfseFOhXCN6Yv_j5b8" />
     <meta property="og:title" content="{title}">
     <meta property="og:description" content="{description}">
     <meta property="og:type" content="website">
